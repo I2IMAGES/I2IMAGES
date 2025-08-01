@@ -13,8 +13,8 @@ I help businesses unlock **real results** through AI-powered systems that **save
   <a href="https://linkedin.com/in/ejaysteele" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ejaysteele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://proofpointesg.com" target="_blank">
-    <img alt="ProofPointESG" src="https://img.shields.io/badge/ProofPointESG-ESG%20Reporting-28a745?style=for-the-badge&logo=leaflet&logoColor=white">
+  <a href="https://pilot.progresspointesg.com" target="_blank">
+    <img alt="ProgressPointESG" src="https://img.shields.io/badge/ProgressPointESG-ESG%20Reporting-28a745?style=for-the-badge&logo=leaflet&logoColor=white">
   </a>
 </p>
 
@@ -57,7 +57,7 @@ If you want to:
 Let’s connect:  
 🌐 [Website](https://www.inward2onward.com) •  
 🔗 [LinkedIn](https://linkedin.com/in/ejaysteele) •  
-🌿 [ProofPointESG](https://proofpointesg.com)
+🌿 [ProgressPointESG](https://pilot.progresspointesg.com)
 
 ---
 
