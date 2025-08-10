@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m EJ — a SaaS Business Consultant, AI-Powered Automation Architect & Executive Coach
 
-I help businesses unlock **real results** through AI-powered systems that **save time, reduce errors, and scale with confidence**.
+I help businesses unlock **real results** through AI-powered systems that **save time, reduce errors, and scale with confidence**. I am a certified executive coach and an SBA-trained business consultant as well.
 
 ---
 
